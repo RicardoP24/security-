@@ -1,0 +1,571 @@
+10.Whatistheprimarygoalofimplementingahoneypotinanetwork?
+○ D)Zero-dayexploit
+○ C)Bufferoverflow
+○ B)Privilegeescalation
+○ A)Commandinjection
+9.Whichvulnerabilityallowsattackerstoexecutecoderemotelyonasystem?
+○ D)Abruteforcepasswordattack
+○ C)AnattackerposingasITsupporttoobtainusercredentials
+○ B)Ransomwareattack
+○ A)SQLInjection
+8.Whichofthefollowingisanexampleofasocialengineeringattack?
+○ D)Cross-sitescripting
+○ C)Shouldersurfing
+○ B)Phishing
+○ A)Pharming
+7.WhichattackmethodusesDNSspoofingtoredirectuserstomaliciouswebsites?
+○ D)Keylogger
+○ C)Trojan
+○ B)Rootkit
+○ A)Worm
+6.Whattypeofmalwaredisguisesitselfaslegitimatesoftwaretogainunauthorizedaccess?
+○ D)Privilegedaccountsaredisabledbydefault
+○ C)Dataaccessismonitoredcontinuously
+○ B)Allusersmustauthenticatewithmulti-factorauthentication
+○ A)Usershaveminimalaccessnecessarytoperformtheirtasks
+5.Whatdoestheprincipleofleastprivilegeensure?
+○ D)MandatoryAccessControl(MAC)
+○ C)Attribute-BasedAccessControl(ABAC)
+○ B)Role-BasedAccessControl(RBAC)
+○ A)DiscretionaryAccessControl(DAC)
+administrator?
+4.Whichaccesscontrolmodelrestrictsaccessbasedonpoliciesdefinedbythesystem
+○ D)Unauthorizedusersaredeniedaccess
+○ C)Resourcesareaccessiblewhenneeded
+○ B)Dataremainsaccurateandtrustworthy
+○ A)Onlyauthorizeduserscanaccessdata
+3.IntheCIAtriad,availabilityensureswhichofthefollowing?
+○ D)PCIDSS
+○ C)COBIT
+○ B)ISO27001
+○ A)GDPR
+organization?
+2.Whichframeworkprovidesastructuredapproachformanagingsecurityandriskinan
+○ D)Creatingredundantbackupsofcriticaldata
+○ C)Ensuringserversareavailableduringpeakhours
+○ B)Detectingunauthorizedchangesinadocument
+○ A)Encryptingsensitivefilesbeforetransmission
+1.Whichofthefollowingscenariosbestdemonstratestheprincipleofconfidentiality?
+SatenderKumarPracticeTest1-CompTIASecurity+(SY0-701).
+1
+----------------Page (0) Break----------------
+○ C)Recovery
+○ B)Preparation
+○ A)Eradication
+19.Whatisthefirstphaseoftheincidentresponseprocess?
+○ D)Providereal-timeendpointprotection
+○ C)Correlateandanalyzesecurityeventdata
+○ B)Automatesoftwarepatching
+○ A)Performpenetrationtesting
+(SIEM)system?
+18.WhichofthefollowingisafunctionofaSecurityInformationandEventManagement
+○ D)Conductvulnerabilityscans
+○ C)Enforcecompliancewithregulatorystandards
+○ B)Definerolesandactionsduringsecurityincidents
+○ A)Monitorsystemperformance
+17.Whatisthepurposeofanincidentresponseplan?
+○ D)Netcat
+○ C)Splunk
+○ B)Wireshark
+○ A)Nessus
+16.Whichtooliscommonlyusedforpacketanalysisduringanetworkinvestigation?
+○ D)Communitycloud
+○ C)Hybridcloud
+○ B)Privatecloud
+○ A)Publiccloud
+15.Whichclouddeploymentmodelisexclusivelyavailabletoasingleorganization?
+○ D)Blockunauthorizeddevicesfromconnectingtothenetwork
+○ C)Reducebandwidthusage
+○ B)Encryptcommunicationsoverinsecurenetworks
+○ A)Enhancewirelessconnectivity
+14.WhatisthemainpurposeofaVirtualPrivateNetwork(VPN)?
+○ D)Loadbalancer
+○ C)IntrusionPreventionSystem(IPS)
+○ B)Proxyserver
+○ A)Router
+networkactivity?
+13.Whichofthefollowingdevicesisprimarilyusedtodetectandrespondtosuspicious
+○ D)Consolidatesnetworktrafficforbettermonitoring
+○ C)Implementszerotrustpoliciesacrossanorganization
+○ B)Encryptsalltrafficwithinthenetwork
+○ A)Isolatesworkloadstoreducetheattacksurface
+12.Whatdoesmicro-segmentationachieveinnetworksecurity?
+○ D)AsecureVPNtunnelbetweentwosites
+○ C)Afirewallruledesignedtoblockincomingtraffic
+network
+○ B)Asubnetthathostspublic-facingservicesandisolatesthemfromtheinternal
+○ A)Asegmentofanetworkusedexclusivelyforstoringsensitivedata
+11.Whichofthefollowingbestdescribesademilitarizedzone(DMZ)?
+○ D)Improvenetworkperformance
+○ C)Encryptsensitivedata
+○ B)Preventmalwareinfections
+○ A)Detectandlogunauthorizedaccessattempts
+2
+----------------Page (1) Break----------------
+● A)Lockingtheuser’sfilesanddemandingpaymentforadecryptionkey
+29.Whichofthefollowingisanexampleofaransomwareattack?
+● D)DLLinjection
+● C)Privilegeescalation
+● B)Cross-sitescripting
+● A)Zero-dayexploit
+thevendorreleasesafix?
+28.Whattechniqueisusedbyattackerstoexploitanunpatchedsoftwarevulnerabilitybefore
+● D)SQLinjection
+● C)Socialengineeringattack
+● B)DistributedDenialofService(DDoS)attack
+● A)InternetofThings(IoT)attack
+typeofattackisthis?
+27.Anattackerexploitsavulnerabilityinasmartthermostatconnectedtothenetwork.Which
+● D)AsecureHTTPSlinkintheemailbody
+● C)Acorrectlyspelleddomainnameinthesender'saddress
+● B)Thepresenceofacompanylogo
+● A)Agenericsalutationsuchas"DearCustomer"
+26.Whichofthefollowingisanindicatorofaphishingattemptinanemail?
+○ D)Calculatethecostofimplementingnewtechnology
+○ C)Assesstheeffectivenessofsecuritypolicies
+○ B)Definerolesinanincidentresponseteam
+○ A)Identifycriticalbusinessfunctionsandtheimpactofdisruptions
+25.Whatisthegoalofabusinessimpactanalysis(BIA)?
+○ D)ISO27001
+○ C)HIPAA
+○ B)PCIDSS
+○ A)GDPR
+24.Whichregulationrequiresorganizationstonotifyindividualsofadatabreach?
+○ D)Thelikelihoodofathreatexploitingavulnerability
+○ C)Thecostofimplementingariskmitigationstrategy
+○ B)Thetotalnumberofidentifiedvulnerabilities
+○ A)Thelevelofriskanorganizationiswillingtoaccept
+23.Whatdoestheterm"riskappetite"refertoinasecuritycontext?
+○ D)Preventallcyberattacks
+○ C)Improveencryptionmechanisms
+○ B)Centralizethemanagementofriskandcomplianceefforts
+○ A)Automatevulnerabilityscanning
+tools?
+22.Whatistheprimarybenefitofimplementinggovernance,risk,andcompliance(GRC)
+○ D)COBIT
+○ C)ISO31000
+○ B)ITIL
+○ A)NISTCSF
+21.Whichframeworkisusedforassessingandimprovingcriticalinfrastructurecybersecurity?
+○ D)Auditlog
+○ C)Applicationlog
+○ B)Securitylog
+○ A)Systemlog
+20.Whichtypeoflogprovidesinformationaboutuserloginsandauthenticationattempts?
+○ D)Containment
+3
+----------------Page (2) Break----------------
+addresses.Whatisthelikelyattackmethod?
+38.AnanalystisreviewinglogsandnoticesrepeatedloginattemptsfrommultipleIP
+● D)VulnerabilityScanner
+● C)UserandEntityBehaviorAnalytics(UEBA)
+● B)EndpointDetectionandResponse(EDR)
+● A)IntrusionDetectionSystem(IDS)
+potentialsecuritythreats?
+37.Whattypeofsolutionusesmachinelearningtodetectanomaliesinuserbehaviorandflag
+● D)Analyzingmemoryanddiskimages
+● C)Backinguplogfiles
+● B)Removingthecompromisedsystemfromthenetwork
+● A)Chainofcustodydocumentation
+investigation?
+36.Whichofthefollowingisthemostcriticalfirststepwhenconductingaforensic
+● D)Hostpublic-facingapplicationssecurely
+● C)Actasafirewallfortheinternalnetwork
+● B)Encryptallinboundandoutboundtraffic
+● A)Provideasecureaccesspointtointernalsystemsforremoteusers
+35.AcompanydeploysabastionhostinitsDMZ.Whatisthemainpurposeofthishost?
+● D)Reducetheattacksurfaceinhybridenvironments
+● C)Strengthenmulti-factorauthenticationprocesses
+● B)Enablesinglesign-onacrossmultipleorganizations
+● A)Encryptsensitivedataatrest
+34.Whatistheprimarygoalofimplementingafederatedidentitymanagementsystem?
+● D)Micro-segmentation
+● C)Firewalls
+● B)ZeroTrustArchitecture
+● A)VLANs
+workloadswithinacloudenvironment?
+33.Whichofthefollowingtechnologiesismosteffectiveinsegmentingandisolatingdifferent
+● D)Installingendpointantivirussoftware
+● C)Monitoringlegacysystems
+● B)Ensuringdataintegrityintransitandatrest
+● A)Managingon-premisesfirewalls
+mostrelevant?
+32.Anorganizationismigratingcriticalapplicationstothecloud.Whichsecuritychallengeis
+● D)NetworkAccessControl(NAC)
+● C)Multi-factorauthentication(MFA)
+● B)SecureSocketsLayer(SSL)
+● A)VirtualPrivateNetwork(VPN)
+end-to-end?
+31.Whichsecuritymeasureensuresdatatransmittedbetweentwosystemsisencrypted
+● D)Keyloggerattack
+● C)Bruteforceattack
+● B)Replayattack
+● A)Credentialstuffing
+ofattackisthis?
+30.Amaliciousactorusesstolencredentialstologintoanonlinebankingplatform.Whattype
+● D)Redirectingtrafficfromalegitimatesitetoamaliciousone
+● C)Monitoringuseractivitythroughaspywareprogram
+● B)Exploitingavulnerabilitytoexecuteunauthorizedcode
+4
+----------------Page (3) Break----------------
+(HIPAA)?
+47.WhatistheprimarypurposeoftheHealthInsurancePortabilityandAccountabilityAct
+● D)SOX
+● C)GDPR
+● B)HIPAA
+● A)PCIDSS
+data,regardlessofwherethecompanyislocated?
+46.WhichofthefollowingregulationsrequirescompaniestoprotectEUcitizens'personal
+● D)Tokenization
+● C)Symmetricencryption
+● B)Asymmetricencryption
+● A)Hashing
+45.Whichcryptographicmethodensurestheintegrityofafileduringtransfer?
+● D)FTP
+● C)HTTP
+● B)SFTP
+● A)SSH
+Whichprotocolshouldtheyuse?
+44.Acompanyneedstosecurelytransferlargeamountsofsensitivedatabetweensystems.
+● D)Focusesonhashingoperations
+● C)Usessymmetrickeyencryption
+● B)Requireslongerkeysforthesamesecuritylevel
+● A)Fasterkeygenerationandencryption
+likeRSA?
+43.Whatisthemainadvantageofellipticcurvecryptography(ECC)overtraditionalalgorithms
+● D)Blowfish
+● C)SHA-256
+● B)AES
+● A)RSA
+42.WhichencryptionalgorithmisusedinWi-FiProtectedAccess3(WPA3)?
+● D)Encryptemailcommunications
+● C)Identifycertificatesthatarenolongervalid
+● B)Distributepublickeystousers
+● A)Validateacertificate'sauthenticity
+(PKI)?
+41.Whatisthepurposeofacertificaterevocationlist(CRL)inaPublicKeyInfrastructure
+● D)Antivirussoftware
+● C)Dataencryption
+● B)Securitycameras
+● A)Firewallrules
+40.Whichofthefollowingisconsideredadetectivecontrol?
+● D)Conductvulnerabilityassessments
+● C)Improveendpointprotectioncapabilities
+● B)Generatecompliancereportsforauditors
+● A)Automateandstandardizeresponsestocommonincidents
+andResponse(SOAR)platform?
+39.WhatistheprimarypurposeofusingplaybooksinaSecurityOrchestration,Automation,
+● D)Privilegeescalation
+● C)SQLinjection
+● B)Phishing
+● A)Passwordspraying
+5
+----------------Page (4) Break----------------
+● D)Generateautomatedincidentresponseplaybooks
+● C)Conductpenetrationtestingonanetwork
+● B)Reviewandvalidatetheresponseplanwithoutliveexecution
+● A)Simulatearealattackscenariototestsystems
+55.Whatisthepurposeofatabletopexerciseinincidentresponseplanning?
+● D)Storinglogsonanetworkshare
+● C)Encryptinglogfilesduringstorage
+● B)Implementingwrite-once-read-many(WORM)media
+● A)Rotatinglogsregularly
+created?
+54.Whichloggingpracticeensuresthatlogfilesareprotectedfromtamperingaftertheyare
+● D)Man-in-the-middle
+● C)DNSamplification
+● B)DistributedDenialofService(DDoS)
+● A)DNSspoofing
+this?
+indicaterequestsarecomingfrommultiplesourcessimultaneously.Whichtypeofattackis
+53.Acompany'sDNSserverisexperiencinganoverwhelmingnumberofrequests.Logs
+● D)NetworkAccessControl(NAC)
+● C)Vulnerabilityscanner
+● B)FileIntegrityMonitoring(FIM)
+● A)SIEM
+onaserver?
+52.Whichofthefollowingtoolswouldananalystusetodetectunauthorizedchangestofiles
+● D)Notifyregulatoryauthorities
+● C)Limitthespreadoftheattack
+● B)Eradicatethethreatfromtheenvironment
+● A)Identifytherootcauseoftheincident
+51.Duringanincidentresponse,whatistheprimarygoalofthecontainmentphase?
+● D)Patchmanagement
+● C)Riskassessment
+● B)Vulnerabilityscanning
+● A)Penetrationtesting
+50.Whichtypeofassessmentinvolvessimulatingreal-worldattackstotestsystemdefenses?
+● D)Reviewcompliancerequirements
+● C)Conductabusinessimpactanalysis
+● B)Identifyandclassifyassets
+● A)Performavulnerabilityscan
+steptheyshouldtake?
+49.Asecuritymanagerisassessingtherisklevelofanewcloudapplication.WhatistheFIRST
+● D)MaximumTolerableDowntime(MTD)
+● C)MeanTimeBetweenFailures(MTBF)
+● B)RecoveryTimeObjective(RTO)
+● A)RecoveryPointObjective(RPO)
+afterafailure?
+48.Whichofthefollowingmetricsisusedtodeterminethetimeallowedtorecoverasystem
+● D)Enforcezero-trustpolicies
+● C)Governcybersecurityframeworks
+● B)Protectpersonalhealthinformation
+● A)Securefinancialdata
+6
+----------------Page (5) Break----------------
+● D)EllipticCurveDigitalSignatureAlgorithm(ECDSA)
+● C)RSA
+● B)Diffie-HellmanKeyExchange
+● A)AdvancedEncryptionStandard(AES)
+64.WhichcryptographicprotocolisusedtosecurewirelesscommunicationsunderWPA3?
+● D)Itsupportsblockchainoperations
+● C)Itprovidesdigitalsignaturesfordataintegrity
+● B)Itreliesonpublic-privatekeypairs
+● A)Itusesasinglekeyforencryptionanddecryption
+63.Whatisthekeycharacteristicofsymmetricencryption?
+● D)RC4
+● C)SHA-256
+● B)SHA-1
+● A)MD5
+use?
+62.Whichofthefollowinghashingalgorithmsisconsideredsecureformoderncryptographic
+● D)Detectunauthorizedfileaccess
+● C)Authenticateusersduringlogin
+● B)Providesecurecommunicationovertheinternet
+● A)Encryptemailcommunications
+61.WhatistheprimarypurposeofTransportLayerSecurity(TLS)?
+● D)Preventdictionaryattacksusingprecomputedhashes
+● C)Encryptstoredpasswords
+● B)Enablemulti-factorauthentication
+● A)Increasecomputationaldifficultyforbruteforceattacks
+60.Whatisthemainpurposeofusingsaltinginpasswordsecurity?
+● D)MACspoofing
+● C)DNSzonetransfer
+● B)ARPpoisoning
+● A)Pingsweep
+network?
+59.Whichofthefollowingmethodscanattackersusetocovertlygatherdataaboutatarget
+● D)Secureboot
+● C)Dataencryption
+● B)Securitypatching
+● A)Inputvalidation
+anapplication?
+58.Whattechniquepreventsanattackerfromexploitingamemorycorruptionvulnerabilityin
+● D)SQLinjection
+● C)Commandinjection
+● B)Cross-sitescripting
+● A)Bufferoverflow
+unauthorizeddatabaseaccess?
+57.WhichtypeofvulnerabilityinvolvesuserinputthatmodifiesSQLqueriestogain
+● D)Conductregularpenetrationtests
+● C)InstallantivirussoftwareonIoTdevices
+● B)ImplementnetworksegmentationforIoTdevices
+● A)DeployaWebApplicationFirewall(WAF)
+Whatisthebestmitigation?
+56.AnattackerusesacompromisedIoTdeviceaspartofabotnettoperformaDDoSattack.
+7
+----------------Page (6) Break----------------
+● B)Preventsensitivedatafromleavingtheorganization
+● A)Encryptdatastoredonservers
+74.WhatisthepurposeofaDataLossPrevention(DLP)solution?
+● D)OpenWebApplicationSecurityProject
+● C)(ISC)²
+● B)NIST
+● A)ISO
+73.WhichorganizationpublishestheOWASPTopTenvulnerabilities?
+● D)Acceptingresidualrisk
+● C)Mitigatingriskthroughtechnicalcontrols
+● B)Refusingtoengageinhigh-riskactivities
+● A)Purchasingcybersecurityinsurance
+72.Whichofthefollowingisanexampleofriskavoidance?
+● D)Cross-borderdatatransfers
+● C)Safeguardinghealthinformation
+● B)Protectionoffinancialrecords
+● A)Databreachnotificationrequirements
+71.WhatdoestheSarbanes-OxleyAct(SOX)primarilyaddress?
+● D)Encryptdatatransmittedoverthenetwork
+● C)Detectandblockphishingemails
+● B)Ensureonlycompliantdevicesaccessthenetwork
+● A)Monitorandlognetworktraffic
+70.WhatisthepurposeofaNetworkAccessControl(NAC)solution?
+● D)Circuit-levelgateway
+● C)Next-generationfirewall(NGFW)
+● B)Statefulfirewall
+● A)Packet-filteringfirewall
+69.Whichtypeoffirewallinspectstrafficattheapplicationlayer?
+● D)Mandatory
+● C)Discretionary
+● B)Context-aware
+● A)Role-based
+ofaccesscontrolisthis?
+68.Anorganizationimplementsgeofencingtorestrictaccesstocertainresources.Whattype
+● D)SIEM
+● C)DNSSEC
+● B)Firewall
+● A)VPN
+internet?
+67.Whichtechnologyenablessecurecommunicationbetweenbranchofficesoverthe
+● D)Encryptmalwaresignatures
+● C)Preventphishingattacks
+● B)Simulateanisolatedenvironmenttoobservemalwarebehavior
+● A)Protectsensitivedatafrommalware
+66.Whatistheprimaryfunctionofasandboxinmalwareanalysis?
+● D)Recipient’spublickey
+● C)Recipient’sprivatekey
+● B)Sender’spublickey
+● A)Sender’sprivatekey
+decryptit?
+65.Auserreceivesanemailencryptedusingarecipient'spublickey.Whatisrequiredto
+8
+----------------Page (7) Break----------------
+● A)Implementinputvalidation
+control?
+83.AnattackergainsaccesstoasystembyexploitingaweakAPI.Whatisthebestpreventive
+● D)Logicbomb
+● C)Spyware
+● B)Rootkit
+● A)Polymorphicmalware
+82.Whattypeofmalwaremodifiesitselftoavoiddetectionbyantivirussoftware?
+● D)Packetsniffing
+● C)Bluejacking
+● B)RogueAP
+● A)Eviltwin
+session.Whatisthisattackcalled?
+81.Anattackerusesafakeaccesspointtointerceptsensitiveinformationduringawireless
+● D)Identifyvulnerabilitiesinthenetwork
+● C)Providedetailedinstructionsforhandlingspecificscenarios
+● B)Automaterepetitivetasksduringincidents
+● A)Documentrolesintheincidentresponseteam
+80.Whatisthemainpurposeofarunbookinincidentresponse?
+● D)DNSlogs
+● C)Applicationlogs
+● B)Securitylogs
+● A)Firewalllogs
+79.Whichlogtypeisessentialforidentifyingthesourceofunauthorizedloginattempts?
+● D)Preparation
+● C)Recovery
+● B)Eradication
+● A)Containment
+Whichincidentresponsestepdoesthisrepresent?
+78.Duringanincident,thesecurityteamdisconnectsaninfectedmachinefromthenetwork.
+● D)Splunk
+● C)Nessus
+● B)Volatility
+● A)Wireshark
+77.Whichtoolwouldyouusetoanalyzemaliciousactivityinsystemmemory?
+● D)Conductsecurityawarenesstraining
+● C)Deploymulti-factorauthentication(MFA)
+● B)Requireuserstoupdatepasswordsregularly
+● A)Implementaccountlockoutpolicies
+isthebestremediationstep?
+76.Ananalystfindsthatmultipleaccountswerecompromisedduetoweakpasswords.What
+● D)FISMA
+● C)HIPAA
+● B)PCIDSS
+● A)GDPR
+confidentiality?
+75.Whichregulationrequiresencryptionofpatienthealthinformationtoensure
+● D)Enforceuseraccesspolicies
+● C)Monitoruseractivityacrossthenetwork
+9
+----------------Page (8) Break----------------
+● C)WPA2
+● B)DNSSEC
+● A)TLS
+attacks?
+92.Whichofthefollowingtechnologieswouldbestprotectagainstman-in-the-middle
+● D)Deploymicroservicessecurely
+● C)Preventunauthorizedaccesstophysicaldevices
+● B)Centralizenetworkcontrolandimproveflexibility
+● A)Encryptallnetworktraffic
+91.Whatisthepurposeofimplementingsoftware-definednetworking(SDN)inadatacenter?
+● D)Streamciphersofferbettersupportforfileencryption
+● C)Blockciphersarefasterforreal-timedataencryption
+● B)Blockciphersusesymmetrickeys,andstreamciphersuseasymmetrickeys
+bit
+● A)Blockciphersencryptdatainfixed-sizechunks,whilestreamciphersencryptdatabitby
+90.Whatistheprimarydifferencebetweenblockandstreamciphers?
+● D)AES
+● C)RC4
+● B)MD5
+● A)SHA-256
+89.Whichhashingalgorithmissuitablefordigitallysigningdocuments?
+● D)SMTP
+● C)IMAP
+● B)POP3
+● A)S/MIME
+andensuresmessageintegrity.Whichprotocolshouldtheyuse?
+88.Acompanyneedstoimplementasecureemailsolutionthatverifiesthesender'sidentity
+● D)Detectunauthorizedmodifications
+● C)Supportlarge-scalecertificatemanagement
+● B)Ensuredataconfidentialityduringtransmission
+● A)Preventthereuseofsessionkeys
+87.Whatisthepurposeofperfectforwardsecrecy(PFS)inencryptionprotocols?
+● D)Authentication
+● C)Integrity
+● B)Non-repudiation
+● A)Encryption
+86.Whichcryptographicconceptensuresthatasendercannotdenysendingamessage?
+● D)Deployingendpointdetectionandresponse(EDR)
+● C)Conductingregularemployeeawarenesstraining
+● B)Implementingemailfilteringsolutions
+● A)Enforcingstrongpasswordpolicies
+85.Whichofthefollowingwouldbestprotectagainstsocialengineeringattacks?
+● D)Bufferoverflow
+● C)Commandinjection
+● B)SQLinjection
+● A)Cross-sitescripting(XSS)
+user'sbrowser?
+84.Whattechniqueinvolvessendingmaliciousscriptstoatrustedwebsitethatexecutesinthe
+● D)UseTLSforallcommunications
+● C)MonitorAPIusagewithaSIEM
+● B)EncryptAPItraffic
+10
+----------------Page (9) Break----------------
+● D)Passwordcomplexitypolicies
+● C)Implementationoffirewallrules
+● B)Securestorageofhealthrecords
+● A)Encryptionofpaymentcardinformation
+followingwouldmostlikelybeassessed?
+100. Anauditorisreviewinganorganization’scompliancewithHIPAA.Whichofthe
+● D)ResidualRisk
+● C)RecoveryTimeObjective(RTO)
+● B)AnnualizedLossExpectancy(ALE)
+● A)RecoveryPointObjective(RPO)
+99.Whatisacommonmetricusedinriskmanagementtoprioritizemitigationefforts?
+● D)ITIL
+● C)NISTCybersecurityFramework(CSF)
+● B)COBIT
+● A)ISO27001
+incriticalinfrastructure?
+98.Whichframeworkemphasizestheassessmentandimprovementofcybersecuritymaturity
+● D)Preventunauthorizeddatatransfers
+● C)Ensuredataiskeptforcompliancepurposes
+● B)Limitaccesstodata
+● A)Reducestoragecosts
+97.Whatisthegoalofimplementingaretentionpolicyforsensitivedata?
+● D)FISMA
+● C)PCIDSS
+● B)HIPAA
+● A)GDPR
+96.Whichregulationisprimarilyconcernedwithprotectingcardholderdata?
+● D)EnsurecompliancewithGDPR
+● C)DetectandblockSQLinjectionattempts
+● B)Encryptallwebapplicationtraffic
+● A)Enhanceapplicationavailabilityandfaulttolerance
+environment?
+95.Whichofthefollowingisabenefitofusingaloadbalancerinawebapplication
+● D)Monitornetworkbandwidthusage
+● C)Interceptandfilterwebtraffic
+● B)Cachefrequentlyaccessedresources
+● A)Blockmalwaredownloads
+94.Whatistheprimaryfunctionofaproxyserverinasecurenetwork?
+● D)Storingalldataon-premises
+● C)Relyingsolelyonperimeterfirewalls
+● B)Continuousverificationofidentityandaccess
+● A)Implicittrustwithininternalnetworks
+framework?
+93.Anorganizationisconsideringthezero-trustmodel.Whatisakeyrequirementforthis
+● D)SIEM
+11
+----------------Page (10) Break----------------

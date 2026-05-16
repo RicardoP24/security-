@@ -1,186 +1,213 @@
-# CompTIA Security+ (SY0-701) - Practice Test 2
+**1.** A security team is investigating unauthorized access to an internal database. The logs
+reveal that an attacker used credentials stolen from an employee. Which mitigation would
+best prevent this type of attack in the future?
+A) Deploying endpoint detection and response (EDR) solutions
+B) Enforcing multi-factor authentication (MFA)
+C) Installing a host-based intrusion detection system (HIDS)
+D) Implementing network segmentation
 
-**1.** Which of the following is a primary objective of security management?
-A) Maximize system performance
-B) Ensure the confidentiality, integrity, and availability of data
-C) Reduce the cost of hardware
-D) Increase the number of users on the network
+**2.** Which security practice ensures that a developer's new code does not introduce
+vulnerabilities to an application?
+A) Continuous monitoring
+B) Secure coding practices
+C) Input sanitization
+D) Patch management
 
-**2.** What does the "I" in the CIA triad stand for?
-A) Identification
-B) Integrity
-C) Information
-D) Infrastructure
+**3.** An organization implements a full packet capture solution to analyze network traffic.
+Which scenario would most benefit from this capability?
+A) Identifying malware signatures in files
+B) Investigating the scope of a data breach
+C) Blocking phishing attempts in real time
+D) Monitoring compliance with privacy regulations
 
-**3.** Which of the following is an example of an administrative control?
-A) Firewall
-B) Biometric scanner
-C) Security policy
-D) Encryption
+**4.** During a penetration test, the tester exploits a vulnerability that allows arbitrary code
+execution. What is the next recommended step according to ethical testing guidelines?
+A) Escalate privileges on the compromised system
+B) Document the vulnerability and report it immediately
+C) Continue testing the system for other vulnerabilities
+D) Install monitoring software on the target system
 
-**4.** What is the purpose of a risk assessment?
-A) To eliminate all risks
-B) To identify and prioritize risks to an organization
-C) To increase the budget for security
-D) To find who is responsible for a security breach
+**5.** An organization uses a third-party cloud provider for hosting its applications. What is the
+most effective way to ensure the security of its data in this environment?
+A) Encrypt data both in transit and at rest
+B) Use a dedicated public IP address for cloud resources
+C) Require all users to connect via a VPN
+D) Perform regular penetration tests on the cloud infrastructure
 
-**5.** Which principle ensures that a user is who they claim to be?
-A) Authorization
-B) Accountability
-C) Authentication
-D) Availability
+**6.** Which of the following would indicate a successful DNS poisoning attack?
+A) Users are redirected to a malicious website when accessing legitimate URLs
+B) A network experiences an increase in unsolicited ARP traffic
+C) Hosts within the network cannot resolve external domain names
+D) Internal DNS queries are being logged without authorization
 
-**6.** Which type of malware is designed to encrypt a user's files and demand payment?
-A) Spyware
-B) Ransomware
-C) Trojan
-D) Worm
+**7.** An attacker exploits a web application by injecting malicious JavaScript code into an input
+field. What is the best countermeasure to prevent this type of attack?
+A) Enforce strict input validation on all user input
+B) Implement server-side encryption of user data
+C) Restrict access to the application’s API endpoints
+D) Require multi-factor authentication for all users
 
-**7.** What is the term for a social engineering attack that targets a specific high-level executive?
-A) Phishing
-B) Vishing
-C) Whaling
+**8.** A user reports that their computer screen suddenly displays a message demanding
+payment in exchange for file access. What immediate action should the incident response
+team take?
+A) Isolate the affected device from the network
+B) Power off the device to prevent further damage
+C) Pay the ransom to recover the files quickly
+D) Restore the files from a recent backup
+
+**9.** Which of the following technologies is most effective in detecting insider threats within an
+organization?
+A) Endpoint Detection and Response (EDR)
+B) User and Entity Behavior Analytics (UEBA)
+C) Data Loss Prevention (DLP) systems
+D) Intrusion Prevention Systems (IPS)
+
+**10.** An organization detects unusual outbound traffic to a known malicious IP address. What is
+the most likely explanation?
+A) A denial-of-service (DoS) attack
+B) A compromised system sending data to a command-and-control (C2) server
+C) An employee bypassing corporate security controls
+D) A misconfigured firewall rule allowing outbound traffic
+
+**11.** A company implements data-at-rest encryption for its database servers. What additional
+step should they take to ensure the encryption is effective?
+A) Use key rotation policies to manage encryption keys
+B) Encrypt backups stored offsite
+C) Ensure the database has role-based access controls (RBAC)
+D) Use symmetric keys for faster encryption
+
+**12.** An attacker successfully performs a SQL injection on a company's website. What is the
+most likely root cause?
+A) Lack of a web application firewall
+B) Insecure input handling in the application
+C) Absence of database encryption
+D) Weak passwords on the database server
+
+**13.** An attacker uses an email claiming to be from IT support to obtain a user’s login
+credentials. What type of attack is this?
+A) Whaling
+B) Spear phishing
+C) Vishing
+D) Pretexting
+
+**14.** What is the primary benefit of using containerization for application deployment?
+A) Encrypting application data by default
+B) Isolating applications to reduce the impact of a compromise
+C) Allowing real-time monitoring of all application code
+D) Preventing zero-day vulnerabilities
+
+**15.** During a review of a cloud infrastructure, a security engineer discovers excessive
+permissions granted to several user accounts. What is the best course of action?
+A) Implement least privilege access
+B) Require users to rotate passwords every 30 days
+C) Configure network segmentation to isolate sensitive resources
+D) Enable logging to monitor all user activity
+
+**16.** A company uses a VPN for remote employees. During a security review, it is noted that
+several VPN accounts are being used simultaneously from different locations. What should
+be implemented to prevent this?
+A) Split tunneling
+B) Multi-factor authentication
+C) Context-aware access control
+D) Single sign-on
+
+**17.** Which type of malware installs a hidden backdoor to allow unauthorized remote access?
+A) Ransomware
+B) Rootkit
+C) Spyware
+D) Adware
+
+**18.** A security analyst observes outbound traffic to a non-standard port from a high-value
+asset. What is the most appropriate action?
+A) Block the port at the firewall and investigate further
+B) Perform a full packet capture of the traffic
+C) Notify the system owner and take no action
+D) Restart the system to terminate the connection
+
+**19.** An attacker embeds malicious code in an image file, which executes when the image is
+opened. What type of attack is this?
+A) Steganography
+B) Cross-site scripting (XSS)
+C) Logic bomb
+D) Watering hole attack
+
+**20.** What is the primary purpose of tokenization in securing sensitive information?
+A) Encrypt data for secure storage
+B) Replace sensitive data with non-sensitive equivalents
+C) Enable secure multi-factor authentication
+D) Hash sensitive information for integrity
+
+**21.** Which of the following tools would best identify vulnerabilities in an application before
+deployment?
+A) Static Application Security Testing (SAST)
+B) Security Information and Event Management (SIEM)
+C) Network vulnerability scanner
+D) Intrusion detection system
+
+**22.** An attacker redirects a victim to a malicious website by altering DNS records. What is this
+attack called?
+A) ARP poisoning
+B) DNS spoofing
+C) IP spoofing
 D) Smishing
 
-**8.** Which of the following is a characteristic of a brute force attack?
-A) Using social engineering to obtain a password
-B) Trying every possible combination of characters to crack a password
-C) Exploiting a software vulnerability
-D) Intercepting network traffic
+**23.** What is the best way to defend against brute force attacks on an organization's login
+portal?
+A) Require CAPTCHA for all login attempts
+B) Enforce account lockout after a number of failed attempts
+C) Deploy a firewall with strict access control
+D) Implement email-based two-factor authentication
 
-**9.** What does a "zero-day" vulnerability refer to?
-A) A vulnerability that has been patched for zero days
-B) A vulnerability that is unknown to the vendor and has no patch available
-C) A vulnerability that was discovered zero days ago
-D) A vulnerability that has zero impact on the system
+**24.** A company’s employees use public Wi-Fi for accessing sensitive corporate data. What is the
+most effective security measure?
+A) Enforce VPN usage
+B) Block public Wi-Fi access for corporate devices
+C) Use MAC address filtering
+D) Disable file sharing
 
-**10.** Which attack involves an attacker positioning themselves between two parties to intercept communications?
-A) Denial of Service (DoS)
-B) Man-in-the-Middle (MitM)
-C) SQL Injection
-D) Cross-Site Scripting (XSS)
+**25.** Which of the following would mitigate the risk of an attacker using a USB device to install
+malware on corporate systems?
+A) Enable Secure Boot
+B) Implement endpoint device control policies
+C) Deploy anti-malware on all systems
+D) Enforce email attachment filtering
 
-**11.** Which type of firewall tracks the state of active connections?
-A) Packet-filtering firewall
-B) Application-level gateway
-C) Stateful inspection firewall
-D) Circuit-level gateway
+**26.** What is the primary benefit of using security groups in a cloud environment?
+A) Encrypt traffic between virtual machines
+B) Define and enforce granular access controls
+C) Automate firewall rule configurations
+D) Provide zero-trust network access
 
-**12.** What is the purpose of an Intrusion Detection System (IDS)?
-A) To block all malicious traffic
-B) To monitor network traffic and alert on suspicious activity
-C) To encrypt sensitive data
-D) To manage user passwords
+**27.** An attacker successfully exploits a buffer overflow in an application. What is the most
+likely goal of this attack?
+A) Execute arbitrary code
+B) Conduct a man-in-the-middle attack
+C) Steal sensitive data
+D) Install ransomware
 
-**13.** Which technology allows multiple virtual machines to run on a single physical server?
-A) Containerization
-B) Virtualization
-C) Cloud computing
-D) Micro-segmentation
+**28.** An organization deploys honeypots in its network. What is the primary purpose of this
+strategy?
+A) Enhance user authentication security
+B) Divert attackers and study their behavior
+C) Encrypt sensitive data in transit
+D) Accelerate vulnerability scans
 
-**14.** What is a key benefit of using a Virtual Private Network (VPN)?
-A) Faster internet speeds
-B) Secure, encrypted communication over a public network
-C) Reduced hardware costs
-D) Automatic software updates
+**29.** A company implements a log retention policy requiring logs to be stored for 7 years. What
+should the company do to ensure compliance?
+A) Encrypt logs before archiving
+B) Use write-once-read-many (WORM) storage
+C) Store logs in the cloud for cost efficiency
+D) Automate log rotation every 30 days
 
-**15.** Which cloud service model provides a platform for developers to build and deploy applications?
-A) IaaS
-B) SaaS
-C) PaaS
-D) SECaaS
+**30.** Which type of cryptographic key should be used for establishing secure communications in
+a public network?
+A) Symmetric key
+B) Asymmetric key pair
+C) Pre-shared key
+D) One-time pad
 
-**16.** Which protocol is used to securely transfer files over a network?
-A) FTP
-B) HTTP
-C) SFTP
-D) Telnet
-
-**17.** What is the primary purpose of a honeypot?
-A) To improve network performance
-B) To lure and observe attackers
-C) To store sensitive backups
-D) To manage digital certificates
-
-**18.** Which of the following is a detective security control?
-A) Firewall rules
-B) Security awareness training
-C) Log analysis
-D) Encryption
-
-**19.** What does the term "least privilege" mean?
-A) Giving users no access at all
-B) Giving users the minimum level of access required for their job
-C) Giving all users administrative access
-D) Giving users access only during business hours
-
-**20.** Which regulation is focused on the protection of personal data of EU citizens?
-A) HIPAA
-B) PCI DSS
-C) GDPR
-D) SOX
-
-**21.** What is the purpose of a Business Impact Analysis (BIA)?
-A) To identify critical business functions and the impact of a disruption
-B) To conduct a financial audit
-C) To hire new employees
-D) To market new products
-
-**22.** Which type of backup only copies files that have changed since the last full or incremental backup?
-A) Full backup
-B) Differential backup
-C) Incremental backup
-D) Mirror backup
-
-**23.** What is the goal of an incident response plan?
-A) To prevent all security incidents
-B) To provide a structured approach to managing a security incident
-C) To blame employees for security failures
-D) To increase the company's insurance premiums
-
-**24.** Which phase of the incident response process involves removing the threat from the environment?
-A) Containment
-B) Eradication
-C) Recovery
-D) Preparation
-
-**25.** What is a tabletop exercise?
-A) A physical test of security hardware
-B) A discussion-based drill to walk through an incident response scenario
-C) A marathon session of coding
-D) A meeting to discuss budget cuts
-
-**26.** Which of the following is a characteristic of a strong password?
-A) It is easy to remember
-B) It uses only lowercase letters
-C) It is long and includes a mix of character types
-D) It is the same as your username
-
-**27.** What does MFA stand for?
-A) Multi-Factor Authentication
-B) Multiple File Access
-C) Mandatory Firewall Action
-D) Mobile Forensic Analysis
-
-**28.** Which type of biometric authentication is based on the patterns of the eye?
-A) Fingerprint
-B) Iris scan
-C) Facial recognition
-D) Voice recognition
-
-**29.** What is the purpose of a digital signature?
-A) To encrypt a message
-B) To provide authentication and integrity for a message
-C) To hide the identity of the sender
-D) To compress a file
-
-**30.** Which cryptographic algorithm is symmetric?
-A) RSA
-B) AES
-C) ECC
-D) Diffie-Hellman
-
-**31.** A security analyst is reviewing logs and notices that sensitive files were accessed outside normal business hours. What is the most likely type of attack?
+**31.** A security analyst is reviewing logs and notices that sensitive files were accessed outside
+normal business hours. What is the most likely type of attack?
 A) Insider threat
 B) Credential stuffing
 C) Privilege escalation
@@ -210,13 +237,15 @@ B) Isolate sensitive systems from potential threats
 C) Improve firewall efficiency
 D) Enhance data encryption during transmission
 
-**36.** A user reports receiving an email from their bank asking for login credentials. What type of attack is this?
+**36.** A user reports receiving an email from their bank asking for login credentials. What type of
+attack is this?
 A) Whaling
 B) Spear phishing
 C) Phishing
 D) Vishing
 
-**37.** What is the best strategy to minimize risk when deploying a new application in production?
+**37.** What is the best strategy to minimize risk when deploying a new application in
+production?
 A) Use automated vulnerability scanning during development
 B) Conduct a penetration test before deployment
 C) Encrypt all application data
@@ -228,31 +257,36 @@ B) Encrypting sensitive data at rest and in transit
 C) Implementing firewalls at every network layer
 D) Using intrusion detection and prevention systems
 
-**39.** What is the primary role of a Security Orchestration, Automation, and Response (SOAR) platform?
+**39.** What is the primary role of a Security Orchestration, Automation, and Response (SOAR)
+platform?
 A) Correlate security events in real time
 B) Automate incident response workflows
 C) Prevent ransomware attacks
 D) Analyze vulnerabilities in real-time
 
-**40.** An attacker exploits a vulnerability in a third-party library used by an application. What is the best way to mitigate this risk?
+**40.** An attacker exploits a vulnerability in a third-party library used by an application. What is
+the best way to mitigate this risk?
 A) Implement a web application firewall
 B) Conduct regular code reviews
 C) Use dependency scanning tools
 D) Update the application to remove the library
 
-**41.** Which attack involves intercepting and altering communications between two parties without their knowledge?
+**41.** Which attack involves intercepting and altering communications between two parties
+without their knowledge?
 A) DNS poisoning
 B) Man-in-the-middle (MITM)
 C) Phishing
 D) Replay attack
 
-**42.** An organization implements port security on its switches. What does this configuration achieve?
+**42.** An organization implements port security on its switches. What does this configuration
+achieve?
 A) Blocks unauthorized devices from connecting to the network
 B) Monitors traffic for malicious activity
 C) Encrypts all communications within the local network
 D) Enhances physical security of network hardware
 
-**43.** A company wants to prevent unauthorized access to physical servers in its datacenter. Which control would be most effective?
+**43.** A company wants to prevent unauthorized access to physical servers in its data center.
+Which control would be most effective?
 A) Biometric authentication at entry points
 B) Role-based access control (RBAC)
 C) Network Access Control (NAC)
@@ -264,7 +298,8 @@ B) Block malicious HTTP/S requests to web applications
 C) Monitor and log all outbound traffic
 D) Encrypt sensitive web communications
 
-**45.** An organization implements a geofencing policy to restrict access to certain systems. Which type of access control does this represent?
+**45.** An organization implements a geofencing policy to restrict access to certain systems.
+Which type of access control does this represent?
 A) Role-based
 B) Context-aware
 C) Mandatory
@@ -274,9 +309,10 @@ D) Discretionary
 A) Enforcing strong password policies
 B) Encrypting sensitive database records
 C) Using prepared statements with parameterized queries
-D) Implementing multi-factor authentication
+D) Implementing multifactor authentication
 
-**47.** A security analyst is tasked with identifying advanced threats within a network. Which tool should they use?
+**47.** A security analyst is tasked with identifying advanced threats within a network. Which tool
+should they use?
 A) SIEM with threat intelligence integration
 B) File integrity monitoring
 C) Firewall access logs
@@ -294,7 +330,8 @@ B) Ping flood
 C) SYN flood
 D) Man-in-the-middle
 
-**50.** Which type of malware relies on encryption to make data inaccessible until a ransom is paid?
+**50.** Which type of malware relies on encryption to make data inaccessible until a ransom is
+paid?
 A) Worm
 B) Ransomware
 C) Spyware
@@ -306,13 +343,15 @@ B) Ensure data integrity and authentication
 C) Encrypt all email communications
 D) Monitor user activity across the network
 
-**52.** Which of the following actions should be taken first during the eradication phase of incident response?
+**52.** Which of the following actions should be taken first during the eradication phase of
+incident response?
 A) Restore data from backups
 B) Identify and remove the root cause
 C) Conduct a root cause analysis
 D) Notify stakeholders about the incident
 
-**53.** A security analyst notices unusual activity from a user account accessing multiple systems simultaneously. What is the most likely explanation?
+**53.** A security analyst notices unusual activity from a user account accessing multiple systems
+simultaneously. What is the most likely explanation?
 A) Insider threat
 B) Credential compromise
 C) Application vulnerability
@@ -324,13 +363,15 @@ B) Encrypt sensitive files and communications
 C) Monitor and log all user activities
 D) Allow dynamic access changes based on context
 
-**55.** Which cryptographic method ensures that plaintext cannot be recovered even if the ciphertext is intercepted?
+**55.** Which cryptographic method ensures that plaintext cannot be recovered even if the
+ciphertext is intercepted?
 A) Encryption
 B) Hashing
 C) Salting
 D) Tokenization
 
-**56.** An attacker exploits a known vulnerability in a company’s software. What is the best preventive measure?
+**56.** An attacker exploits a known vulnerability in a company’s software. What is the best
+preventive measure?
 A) Conduct regular vulnerability scanning and patch management
 B) Implement a web application firewall (WAF)
 C) Use strong passwords for all accounts
@@ -342,13 +383,15 @@ B) Detective control
 C) Preventive control
 D) Compensating control
 
-**58.** A compromised IoT device in a smart factory was used to pivot to other devices. What is the best security measure to prevent this?
+**58.** A compromised IoT device in a smart factory was used to pivot to other devices. What is
+the best security measure to prevent this?
 A) Implement micro-segmentation for IoT devices
 B) Enforce role-based access control
 C) Monitor traffic using an intrusion detection system
 D) Use symmetric encryption for IoT communications
 
-**59.** What is the primary advantage of using a cloud-based SIEM solution over an on-premises SIEM?
+**59.** What is the primary advantage of using a cloud-based SIEM solution over an on-premises
+SIEM?
 A) Reduced latency for local events
 B) Improved scalability and centralized management
 C) Simplified integration with endpoint devices
@@ -358,7 +401,7 @@ D) Enhanced encryption for log files
 A) Salting passwords before hashing
 B) Implementing account lockout policies
 C) Encrypting user credentials during transmission
-D) Using multi-factor authentication
+D) Using multifactor authentication
 
 **61.** Which of the following best defines steganography?
 A) Encrypting data in transit
@@ -372,13 +415,15 @@ B) Authenticate a user’s identity to the network
 C) Verify the integrity of encrypted data
 D) Secure communications between systems
 
-**63.** A company is planning to deploy Zero Trust Architecture. What is a key requirement for this model?
+**63.** A company is planning to deploy Zero Trust Architecture. What is a key requirement for
+this model?
 A) Implicit trust within internal networks
 B) Continuous verification of users and devices
 C) Use of role-based access controls exclusively
 D) Encrypting all traffic to the cloud
 
-**64.** An attacker uses a compromised email account to send phishing emails to internal employees. What type of attack is this?
+**64.** An attacker uses a compromised email account to send phishing emails to internal
+employees. What type of attack is this?
 A) Impersonation
 B) Business Email Compromise (BEC)
 C) Whaling
@@ -390,7 +435,8 @@ B) Identify potential security gaps in a system
 C) Test the effectiveness of an incident response plan
 D) Evaluate compliance with regulatory frameworks
 
-**66.** An attacker successfully alters a configuration file on a server without proper authorization. Which security principle has been violated?
+**66.** An attacker successfully alters a configuration file on a server without proper
+authorization. Which security principle has been violated?
 A) Availability
 B) Integrity
 C) Confidentiality
@@ -402,13 +448,15 @@ B) Virtual Private Network (VPN)
 C) File Transfer Protocol (FTP)
 D) Simple Mail Transfer Protocol (SMTP)
 
-**68.** What is the primary goal of implementing an intrusion prevention system (IPS) in a network?
+**68.** What is the primary goal of implementing an intrusion prevention system (IPS) in a
+network?
 A) Detect and log malicious activity
 B) Block identified threats in real-time
 C) Encrypt network communications
 D) Monitor bandwidth usage
 
-**69.** A security analyst identifies unusual outbound traffic from a database server. What should be the analyst's next step?
+**69.** A security analyst identifies unusual outbound traffic from a database server. What should
+be the analyst's next step?
 A) Isolate the server from the network
 B) Notify the database administrator
 C) Conduct a vulnerability scan on the server
@@ -420,7 +468,8 @@ B) Enforce least privilege policies
 C) Perform regular penetration testing
 D) Use a web application firewall
 
-**71.** A company’s email system was compromised due to a phishing attack. Which step should be prioritized during the response process?
+**71.** A company’s email system was compromised due to a phishing attack. Which step should
+be prioritized during the response process?
 A) Notify affected users
 B) Analyze the malicious email headers
 C) Block the sender’s email address
@@ -432,13 +481,15 @@ B) Enforce access policies based on data classification
 C) Assign user roles dynamically based on context
 D) Monitor access attempts in real-time
 
-**73.** An attacker uses a public Wi-Fi network to intercept unencrypted web traffic. Which attack type is this?
+**73.** An attacker uses a public Wi-Fi network to intercept unencrypted web traffic. Which attack
+type is this?
 A) ARP poisoning
 B) Evil twin
 C) Packet sniffing
 D) Man-in-the-middle
 
-**74.** A compromised device is communicating with a known command-and-control (C2) server. What is the most likely explanation?
+**74.** A compromised device is communicating with a known command-and-control (C2) server.
+What is the most likely explanation?
 A) A distributed denial-of-service (DDoS) attack
 B) Malware infection
 C) Credential theft
@@ -456,13 +507,15 @@ B) RSA
 C) AES
 D) SHA
 
-**77.** A user receives a phone call from someone claiming to be IT support and requesting their login credentials. What type of attack is this?
+**77.** A user receives a phone call from someone claiming to be IT support and requesting their
+login credentials. What type of attack is this?
 A) Smishing
 B) Pretexting
 C) Vishing
 D) Impersonation
 
-**78.** An attacker exploits a zero-day vulnerability in a company’s software. What is the best way to address this risk in the future?
+**78.** An attacker exploits a zero-day vulnerability in a company’s software. What is the best way
+to address this risk in the future?
 A) Conduct real-time monitoring
 B) Implement endpoint detection and response (EDR) solutions
 C) Perform static code analysis on new applications
@@ -474,7 +527,9 @@ B) User and Entity Behavior Analytics (UEBA)
 C) Intrusion Detection System (IDS)
 D) Vulnerability scanner
 
-**80.** A company’s IT team wants to limit access to a sensitive database based on specific attributes such as user location and device type. Which access control model should they implement?
+**80.** A company’s IT team wants to limit access to a sensitive database based on specific
+attributes such as user location and device type. Which access control model should they
+implement?
 A) Attribute-Based Access Control (ABAC)
 B) Discretionary Access Control (DAC)
 C) Role-Based Access Control (RBAC)
@@ -492,13 +547,15 @@ B) Isolate public-facing servers from the internal network
 C) Monitor and log all inbound traffic
 D) Encrypt sensitive communications
 
-**83.** Which vulnerability allows attackers to inject malicious code during user input to manipulate a web application?
+**83.** Which vulnerability allows attackers to inject malicious code during user input to
+manipulate a web application?
 A) Cross-site scripting (XSS)
 B) Directory traversal
 C) SQL injection
 D) Command injection
 
-**84.** A company implements a network access control (NAC) solution. What is its primary function?
+**84.** A company implements a network access control (NAC) solution. What is its primary
+function?
 A) Detect and block phishing emails
 B) Prevent unauthorized devices from accessing the network
 C) Encrypt all internal communications
@@ -534,7 +591,8 @@ B) Encrypting the file before transfer
 C) Deploying a secure file transfer protocol
 D) Performing periodic audits
 
-**90.** An attacker attempts to exploit a vulnerability in the transport layer of a network. What type of security control would be most effective?
+**90.** An attacker attempts to exploit a vulnerability in the transport layer of a network. What
+type of security control would be most effective?
 A) Web Application Firewall (WAF)
 B) Intrusion Prevention System (IPS)
 C) Secure Sockets Layer (SSL)/TLS
@@ -546,7 +604,8 @@ B) Protect against unauthorized access by requiring multiple forms of verificati
 C) Ensure secure data transfer over the network
 D) Prevent phishing attempts
 
-**92.** An organization notices repeated failed login attempts from multiple IP addresses. What is the most likely type of attack?
+**92.** An organization notices repeated failed login attempts from multiple IP addresses. What is
+the most likely type of attack?
 A) Password spraying
 B) Phishing
 C) SQL injection
@@ -564,13 +623,15 @@ B) Ensure the authenticity of a public key
 C) Generate secure passwords for users
 D) Monitor unauthorized access attempts
 
-**95.** An attacker uses a legitimate-looking website to trick users into entering sensitive information. What type of attack is this?
+**95.** An attacker uses a legitimate-looking website to trick users into entering sensitive
+information. What type of attack is this?
 A) Spear phishing
 B) Watering hole attack
 C) Pharming
 D) Whaling
 
-**96.** During a forensic investigation, what is the first step to preserve evidence from a compromised system?
+**96.** During a forensic investigation, what is the first step to preserve evidence from a
+compromised system?
 A) Isolate the system from the network
 B) Create a bit-by-bit image of the system
 C) Analyze logs for suspicious activity
@@ -582,7 +643,8 @@ B) Prevent unauthorized transmission of sensitive data
 C) Detect malware in email attachments
 D) Monitor user activity on endpoints
 
-**98.** An organization discovers a vulnerable legacy system on its network that cannot be updated. What is the best mitigation strategy?
+**98.** An organization discovers a vulnerable legacy system on its network that cannot be
+updated. What is the best mitigation strategy?
 A) Implement micro-segmentation to isolate the system
 B) Encrypt all communications to and from the system
 C) Deploy endpoint detection and response (EDR) solutions
@@ -594,8 +656,10 @@ B) Use of session tokens with timestamps
 C) End-to-end encryption
 D) Hashing sensitive data before storage
 
-**100.** An attacker exploits a misconfigured S3 bucket to access sensitive files. What is the best way to prevent such attacks in the future?
+**100.** An attacker exploits a misconfigured S3 bucket to access sensitive files. What is the
+best way to prevent such attacks in the future?
 A) Use automated tools to check cloud configurations for vulnerabilities
 B) Encrypt all files stored in the S3 bucket
 C) Restrict public access to the S3 bucket
 D) Enable logging to monitor all file access events
+

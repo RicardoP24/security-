@@ -1,34 +1,38 @@
-# CompTIA Security+ (SY0-701) - Practice Test 3
-
-**1.** An employee receives an email with an attachment that appears to be an invoice from a known vendor. When the attachment is opened, ransomware encrypts the user's files. What is the best prevention method for this scenario?
+**1.** An employee receives an email with an attachment that appears to be an invoice from a
+known vendor. When the attachment is opened, ransomware encrypts the user's files.
+What is the best prevention method for this scenario?
 A) Regular vulnerability scanning
 B) User training on recognizing phishing emails
 C) Deployment of an intrusion prevention system (IPS)
 D) Blocking all email attachments
 
-**2.** Which type of firewall inspects the content of packets at the application layer to detect and block threats?
+**2.** Which type of firewall inspects the content of packets at the application layer to detect
+and block threats?
 A) Stateful firewall
 B) Packet-filtering firewall
 C) Next-generation firewall (NGFW)
 D) Circuit-level gateway
 
-**3.** What is the primary purpose of Security Information and Event Management (SIEM) solutions?
+**3.** What is the primary purpose of Security Information and Event Management (SIEM)
+solutions?
 A) Encrypt sensitive data in transit
 B) Correlate and analyze security logs in real-time
 C) Prevent malware infections on endpoints
 D) Automate vulnerability management
 
-**4.** An attacker gains access to a user’s online banking account by guessing their weak password. What is the most effective mitigation for this attack?
+**4.** An attacker gains access to a user’s online banking account by guessing their weak
+password. What is the most effective mitigation for this attack?
 A) Use password complexity policies
 B) Implement multi-factor authentication (MFA)
 C) Deploy a web application firewall (WAF)
 D) Require password changes every 30 days
 
-**5.** A security team identifies a rogue device connected to the corporate network. What is the best action to take?
+**5.** A security team identifies a rogue device connected to the corporate network. What is the
+best action to take?
 A) Block the device's MAC address on the network
 B) Isolate the device using network segmentation
 C) Deploy an endpoint detection and response (EDR) solution
-D) Shutdown the network switch to prevent further connections
+D) Shut down the network switch to prevent further connections
 
 **6.** Which cryptographic method is used to ensure the authenticity of software updates?
 A) Symmetric encryption
@@ -36,7 +40,8 @@ B) Digital signatures
 C) Hashing with MD5
 D) Elliptic curve cryptography (ECC)
 
-**7.** A company experiences a DDoS attack targeting its e-commerce platform. What is the best immediate action?
+**7.** A company experiences a DDoS attack targeting its e-commerce platform. What is the best
+immediate action?
 A) Deploy a load balancer to distribute traffic
 B) Block all incoming traffic on the affected port
 C) Redirect traffic through a cloud-based DDoS mitigation service
@@ -54,7 +59,8 @@ B) SMTP
 C) IMAP
 D) POP3
 
-**10.** An attacker uses a script to repeatedly try default usernames and passwords on IoT devices. What type of attack is this?
+**10.** An attacker uses a script to repeatedly try default usernames and passwords on IoT
+devices. What type of attack is this?
 A) Brute force
 B) Credential stuffing
 C) Password spraying
@@ -66,7 +72,8 @@ B) Preventive
 C) Corrective
 D) Compensating
 
-**12.** An attacker modifies ARP cache entries on a target system to intercept network traffic. What is this attack called?
+**12.** An attacker modifies ARP cache entries on a target system to intercept network traffic.
+What is this attack called?
 A) DNS poisoning
 B) Man-in-the-middle (MITM)
 C) ARP spoofing
@@ -78,13 +85,15 @@ B) Ensure the availability of critical business operations during disruptions
 C) Identify gaps in organizational security
 D) Provide training for incident response teams
 
-**14.** An organization deploys a proxy server to block access to malicious websites. What type of control does this represent?
+**14.** An organization deploys a proxy server to block access to malicious websites. What type of
+control does this represent?
 A) Preventive
 B) Corrective
 C) Detective
 D) Compensating
 
-**15.** An attacker injects malicious SQL statements into a web application's input field. What is the best defense against this attack?
+**15.** An attacker injects malicious SQL statements into a web application's input field. What is
+the best defense against this attack?
 A) Input validation and parameterized queries
 B) Encrypt all database records
 C) Implement multi-factor authentication
@@ -102,7 +111,8 @@ B) Provide faster encryption and decryption
 C) Encrypt data using symmetric keys
 D) Prevent brute-force attacks
 
-**18.** Which type of vulnerability allows attackers to execute arbitrary code by exploiting an application’s memory handling?
+**18.** Which type of vulnerability allows attackers to execute arbitrary code by exploiting an
+application’s memory handling?
 A) Buffer overflow
 B) Cross-site scripting (XSS)
 C) SQL injection
@@ -114,7 +124,8 @@ B) Implement strict access control policies
 C) Educate employees about approved tools and services
 D) Encrypt all sensitive data
 
-**20.** Which type of malware remains hidden within a system and provides unauthorized access to an attacker?
+**20.** Which type of malware remains hidden within a system and provides unauthorized access
+to an attacker?
 A) Trojan
 B) Rootkit
 C) Spyware
@@ -126,37 +137,43 @@ B) Authenticate users to web applications
 C) Detect unauthorized modifications to files
 D) Block unauthorized network connections
 
-**22.** A security analyst identifies that attackers are using brute force methods to guess admin passwords. What is the best mitigation strategy?
+**22.** A security analyst identifies that attackers are using brute force methods to guess admin
+passwords. What is the best mitigation strategy?
 A) Implement account lockout policies
 B) Require password rotation every 30 days
 C) Deploy a firewall to block incoming connections
 D) Use a SIEM solution for monitoring
 
-**23.** An organization wants to ensure that only authorized users can access its sensitive data. What type of encryption should be used?
+**23.** An organization wants to ensure that only authorized users can access its sensitive data.
+What type of encryption should be used?
 A) Symmetric encryption
 B) Asymmetric encryption
 C) Hashing
 D) Tokenization
 
-**24.** An attacker exploits a software vulnerability to gain administrative privileges on a system. What type of attack is this?
+**24.** An attacker exploits a software vulnerability to gain administrative privileges on a system.
+What type of attack is this?
 A) Privilege escalation
 B) Credential stuffing
 C) Social engineering
 D) Denial-of-service
 
-**25.** A user reports that their system is infected with ransomware. What is the first action the incident response team should take?
+**25.** A user reports that their system is infected with ransomware. What is the first action the
+incident response team should take?
 A) Isolate the infected system from the network
 B) Decrypt the files using a backup key
 C) Analyze the attack using a SIEM solution
 D) Notify law enforcement
 
-**26.** An attacker uses email spoofing to impersonate a senior executive and requests a wire transfer from the finance department. What type of attack is this?
+**26.** An attacker uses email spoofing to impersonate a senior executive and requests a wire
+transfer from the finance department. What type of attack is this?
 A) Whaling
 B) Vishing
 C) Credential stuffing
 D) Pretexting
 
-**27.** Which of the following controls is most effective in preventing unauthorized physical access to a secure datacenter?
+**27.** Which of the following controls is most effective in preventing unauthorized physical
+access to a secure data center?
 A) Role-based access control
 B) Biometric authentication
 C) Security awareness training
@@ -168,7 +185,8 @@ B) Identify security gaps in systems and applications
 C) Block unauthorized network traffic
 D) Encrypt sensitive data during transmission
 
-**29.** Which type of malware allows attackers to gain persistent, unauthorized access to a system by exploiting system-level privileges?
+**29.** Which type of malware allows attackers to gain persistent, unauthorized access to a system
+by exploiting system-level privileges?
 A) Ransomware
 B) Rootkit
 C) Worm
@@ -192,19 +210,22 @@ B) Nessus
 C) Splunk
 D) Metasploit
 
-**33.** What is the primary purpose of a Security Orchestration, Automation, and Response (SOAR) platform?
+**33.** What is the primary purpose of a Security Orchestration, Automation, and Response
+(SOAR) platform?
 A) Automate incident response workflows
 B) Prevent phishing emails from reaching users
 C) Provide endpoint protection against malware
 D) Enforce zero-trust policies across the organization
 
-**34.** Which type of attack involves embedding malicious scripts in trusted websites to execute on a victim’s browser?
+**34.** Which type of attack involves embedding malicious scripts in trusted websites to execute
+on a victim’s browser?
 A) SQL injection
 B) Cross-site scripting (XSS)
 C) Watering hole attack
 D) Command injection
 
-**35.** An attacker exploits a weak API endpoint to gain unauthorized access to a database. What is the best way to prevent such attacks?
+**35.** An attacker exploits a weak API endpoint to gain unauthorized access to a database. What
+is the best way to prevent such attacks?
 A) Use input validation and access control measures
 B) Encrypt all API communications
 C) Deploy a web application firewall (WAF)
@@ -228,7 +249,8 @@ B) Bluesnarfing
 C) Evil twin
 D) Rogue AP
 
-**39.** A company wants to ensure its employees access sensitive resources only during work hours. What is the best solution?
+**39.** A company wants to ensure its employees access sensitive resources only during work
+hours. What is the best solution?
 A) Implement time-based access control policies
 B) Deploy a network intrusion prevention system
 C) Enforce multi-factor authentication
@@ -240,7 +262,8 @@ B) Encrypt data stored on servers
 C) Prevent malware from infecting endpoints
 D) Monitor user behavior for anomalies
 
-**41.** An attacker successfully performs a DNS cache poisoning attack. What is the likely outcome?
+**41.** An attacker successfully performs a DNS cache poisoning attack. What is the likely
+outcome?
 A) Users are redirected to malicious websites when accessing legitimate domains
 B) Network traffic is encrypted by the attacker
 C) Unauthorized users gain access to internal systems
@@ -264,7 +287,8 @@ B) Cross-site request forgery (CSRF)
 C) Session hijacking
 D) Credential stuffing
 
-**45.** A company experiences a phishing campaign targeting its employees. What is the best mitigation step?
+**45.** A company experiences a phishing campaign targeting its employees. What is the best
+mitigation step?
 A) Enable email filtering with spam detection
 B) Require users to change passwords weekly
 C) Implement endpoint detection and response (EDR) solutions
@@ -276,7 +300,8 @@ B) Deploy endpoint data loss prevention (DLP) tools
 C) Encrypt all removable drives used within the organization
 D) Conduct regular vulnerability scans
 
-**47.** An attacker sends malicious code to a web application that executes in the browser of other users. What is the type of attack?
+**47.** An attacker sends malicious code to a web application that executes in the browser of
+other users. What is the type of attack?
 A) SQL injection
 B) Cross-site scripting (XSS)
 C) Buffer overflow
@@ -288,19 +313,22 @@ B) Verify the authenticity of certificates
 C) List certificates that are no longer valid
 D) Encrypt sensitive data in transit
 
-**49.** Which of the following ensures that unauthorized changes to critical system files are detected?
+**49.** Which of the following ensures that unauthorized changes to critical system files are
+detected?
 A) File integrity monitoring (FIM)
 B) Intrusion prevention system (IPS)
 C) Host-based firewall
 D) Static application security testing (SAST)
 
-**50.** An organization wants to prioritize risk mitigation efforts. Which metric should be considered first?
+**50.** An organization wants to prioritize risk mitigation efforts. Which metric should be
+considered first?
 A) Annualized Loss Expectancy (ALE)
 B) Recovery Time Objective (RTO)
 C) Mean Time Between Failures (MTBF)
 D) Maximum Tolerable Downtime (MTD)
 
-**51.** An attacker intercepts communications between two devices and modifies the transmitted data. What type of attack is this?
+**51.** An attacker intercepts communications between two devices and modifies the transmitted
+data. What type of attack is this?
 A) Man-in-the-middle
 B) DNS poisoning
 C) Replay attack
@@ -312,7 +340,8 @@ B) Configure a web application firewall (WAF)
 C) Deploy an intrusion detection system (IDS)
 D) Use multi-factor authentication for access
 
-**53.** A security analyst observes that users are being redirected to malicious websites despite entering the correct URLs. What is the likely cause?
+**53.** A security analyst observes that users are being redirected to malicious websites despite
+entering the correct URLs. What is the likely cause?
 A) DNS spoofing
 B) SQL injection
 C) Evil twin attack
@@ -324,7 +353,8 @@ B) Encrypt files affected by malware
 C) Prevent malware from spreading within a network
 D) Patch vulnerabilities in compromised systems
 
-**55.** Which technique ensures that passwords stored in a database are resistant to brute force and rainbow table attacks?
+**55.** Which technique ensures that passwords stored in a database are resistant to brute force
+and rainbow table attacks?
 A) Salting before hashing
 B) Encrypting passwords with AES
 C) Storing passwords in plaintext
@@ -342,7 +372,8 @@ B) Simple Network Management Protocol (SNMP)
 C) Dynamic Host Configuration Protocol (DHCP)
 D) Domain Name System Security Extensions (DNSSEC)
 
-**58.** An attacker sends a phishing email to a specific group within an organization. What type of attack is this?
+**58.** An attacker sends a phishing email to a specific group within an organization. What type of
+attack is this?
 A) Spear phishing
 B) Whaling
 C) Vishing
@@ -354,13 +385,15 @@ B) Identify and remediate security weaknesses
 C) Block unauthorized access to systems
 D) Provide continuous monitoring of network traffic
 
-**60.** An organization deploys biometric authentication to secure access to sensitive systems. What is the primary advantage of this method?
+**60.** An organization deploys biometric authentication to secure access to sensitive systems.
+What is the primary advantage of this method?
 A) Resistance to phishing attacks
 B) Scalability across large networks
 C) Faster authentication processes
 D) High level of accuracy in user verification
 
-**61.** Which attack exploits a vulnerability in wireless encryption protocols to gain unauthorized access?
+**61.** Which attack exploits a vulnerability in wireless encryption protocols to gain unauthorized
+access?
 A) Evil twin attack
 B) Bluejacking
 C) KRACK (Key Reinstallation Attack)
@@ -384,7 +417,8 @@ B) Use parameterized statements and input validation
 C) Implement a firewall between the application and database
 D) Enable logging on all database operations
 
-**65.** An organization wants to ensure the integrity of its sensitive files during transfer. Which cryptographic technique should it use?
+**65.** An organization wants to ensure the integrity of its sensitive files during transfer. Which
+cryptographic technique should it use?
 A) Digital signatures
 B) Asymmetric encryption
 C) Symmetric encryption
@@ -402,7 +436,8 @@ B) Network Access Control (NAC)
 C) Intrusion Prevention System (IPS)
 D) File Integrity Monitoring (FIM)
 
-**68.** An attacker intercepts and resends legitimate communication to gain unauthorized access. What type of attack is this?
+**68.** An attacker intercepts and resends legitimate communication to gain unauthorized access.
+What type of attack is this?
 A) Replay attack
 B) Session hijacking
 C) Cross-site scripting (XSS)
@@ -414,7 +449,8 @@ B) Authenticate users to web servers
 C) Detect unauthorized modifications to web pages
 D) Block malicious traffic from reaching endpoints
 
-**70.** An organization wants to restrict administrative access to its network devices. What is the best practice to implement?
+**70.** An organization wants to restrict administrative access to its network devices. What is the
+best practice to implement?
 A) Use a dedicated management VLAN
 B) Configure default usernames and passwords
 C) Allow remote access from any IP address
@@ -432,7 +468,8 @@ B) Confidentiality
 C) Availability
 D) Non-repudiation
 
-**73.** Which attack involves tricking a victim into installing malware by mimicking a legitimate application update?
+**73.** Which attack involves tricking a victim into installing malware by mimicking a legitimate
+application update?
 A) Drive-by download
 B) Trojan horse
 C) Phishing
@@ -444,7 +481,8 @@ B) Encrypt sensitive traffic between devices
 C) Monitor and log all inbound traffic
 D) Detect unauthorized access attempts
 
-**75.** What is the best way to mitigate risks associated with legacy systems that cannot be updated?
+**75.** What is the best way to mitigate risks associated with legacy systems that cannot be
+updated?
 A) Implement network segmentation to isolate legacy systems
 B) Deploy an intrusion prevention system (IPS)
 C) Require multi-factor authentication for all users
@@ -456,19 +494,22 @@ B) Enforce account lockout after several failed attempts
 C) Encrypt all login credentials using AES
 D) Require password changes every 30 days
 
-**77.** An attacker exploits a web application's vulnerability to execute commands on the server. What is this attack called?
+**77.** An attacker exploits a web application's vulnerability to execute commands on the server.
+What is this attack called?
 A) SQL injection
 B) Cross-site scripting (XSS)
 C) Command injection
 D) Directory traversal
 
-**78.** Which of the following ensures secure communication between remote offices over the internet?
+**78.** Which of the following ensures secure communication between remote offices over the
+internet?
 A) VLAN
 B) VPN
 C) IDS
 D) SIEM
 
-**79.** A security team detects unauthorized access to a privileged account after a phishing attack. What is the next step in the incident response process?
+**79.** A security team detects unauthorized access to a privileged account after a phishing attack.
+What is the next step in the incident response process?
 A) Notify affected users
 B) Disable the compromised account
 C) Review logs for further anomalies
@@ -486,7 +527,8 @@ B) Detect and alert on changes to critical files
 C) Encrypt files stored on endpoints
 D) Monitor and log user activity
 
-**82.** An organization deploys role-based access control (RBAC) for its HR systems. Which principle does this configuration enforce?
+**82.** An organization deploys role-based access control (RBAC) for its HR systems. Which
+principle does this configuration enforce?
 A) Confidentiality
 B) Least privilege
 C) Availability
@@ -498,7 +540,8 @@ B) Whaling
 C) Phishing
 D) Vishing
 
-**84.** Which vulnerability allows attackers to take control of an application by exploiting its memory management?
+**84.** Which vulnerability allows attackers to take control of an application by exploiting its
+memory management?
 A) Cross-site scripting (XSS)
 B) Buffer overflow
 C) SQL injection
@@ -516,13 +559,15 @@ B) Wireshark
 C) Splunk
 D) OpenVAS
 
-**87.** An organization wants to prevent data exfiltration through removable media. What is the best solution?
+**87.** An organization wants to prevent data exfiltration through removable media. What is the
+best solution?
 A) Endpoint Data Loss Prevention (DLP)
 B) Multi-factor authentication
 C) Encrypt USB devices
 D) Role-based access control
 
-**88.** Which attack involves exploiting a browser vulnerability to execute arbitrary code on a victim's system?
+**88.** Which attack involves exploiting a browser vulnerability to execute arbitrary code on a
+victim's system?
 A) Drive-by download
 B) Logic bomb
 C) ARP spoofing
@@ -534,7 +579,8 @@ B) Encrypt passwords stored in a database
 C) Generate session keys dynamically
 D) Enable single sign-on for multiple systems
 
-**90.** A penetration tester successfully exploits an insecure API. What is the most effective remediation?
+**90.** A penetration tester successfully exploits an insecure API. What is the most effective
+remediation?
 A) Implement input validation on API endpoints
 B) Encrypt all data transmitted through the API
 C) Require multi-factor authentication for all API users
@@ -546,7 +592,8 @@ B) Limit the impact of a security breach
 C) Encrypt all traffic between network segments
 D) Simplify network device management
 
-**92.** Which type of malware operates at the kernel level to remain hidden and grant attackers unauthorized access?
+**92.** Which type of malware operates at the kernel level to remain hidden and grant attackers
+unauthorized access?
 A) Trojan
 B) Rootkit
 C) Spyware
@@ -558,7 +605,8 @@ B) Implement role-based access control (RBAC)
 C) Enforce TLS for all API communications
 D) Use prepared statements for all inputs
 
-**94.** An attacker exploits a vulnerability to send multiple requests to a target web server, causing it to crash. What type of attack is this?
+**94.** An attacker exploits a vulnerability to send multiple requests to a target web server,
+causing it to crash. What type of attack is this?
 A) SQL injection
 B) Denial-of-service (DoS)
 C) Cross-site request forgery (CSRF)
@@ -570,7 +618,8 @@ B) Validate the integrity of certificates
 C) Identify certificates that are no longer valid
 D) Encrypt communications between endpoints
 
-**96.** What is the best method to prevent unauthorized devices from accessing a corporate wireless network?
+**96.** What is the best method to prevent unauthorized devices from accessing a corporate
+wireless network?
 A) Deploy Network Access Control (NAC)
 B) Enable WPA3 encryption
 C) Require users to change passwords frequently
@@ -582,7 +631,8 @@ B) Using hashing algorithms like SHA-256
 C) Implementing multi-factor authentication
 D) Deploying intrusion detection systems
 
-**98.** Which regulatory framework focuses on protecting healthcare information in the United States?
+**98.** Which regulatory framework focuses on protecting healthcare information in the United
+States?
 A) GDPR
 B) PCI DSS
 C) HIPAA
@@ -594,8 +644,10 @@ B) Encrypt sensitive data in transit and at rest
 C) Deploy endpoint detection and response (EDR) solutions
 D) Enforce strong password policies
 
-**100.** An attacker injects malicious scripts into a trusted website that executes in a user’s browser. What is the best mitigation?
+**100.** An attacker injects malicious scripts into a trusted website that executes in a user’s
+browser. What is the best mitigation?
 A) Validate all user input on the server side
 B) Encrypt all data stored in the database
 C) Block traffic from untrusted IPs
 D) Deploy endpoint protection software
+
